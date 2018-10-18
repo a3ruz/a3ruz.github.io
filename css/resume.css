@@ -22,6 +22,8 @@ h2,
 h3,
 h4,
 h5,
+
+
 h6 {
   font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-weight: 700;
@@ -42,7 +44,10 @@ h3 {
   font-size: 2rem;
 }
 h5 {
-  font-size: 1rem;
+  font-sizerem;
+}
+h5:hover, h5:focus, h5:active {
+  color: #6331d8;
 }
 
 p.lead {
@@ -193,3 +198,4 @@ a {
 a:hover, a:focus, a:active {
   color: #6331d8;
 }
+
